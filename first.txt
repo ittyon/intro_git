@@ -1,4 +1,5 @@
 gitを始める
 ワークフローを学んでいく
 ・git add
-・git commit
+・git commi
+・git rmt
